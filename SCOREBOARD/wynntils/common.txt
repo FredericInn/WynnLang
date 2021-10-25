@@ -1,0 +1,8 @@
+§c§lDaily Objective:@§c§lЕжедневная Цель:
+§e★ §c§lDaily Objective:@§e★ §c§lЕжедневная Цель:
+§a§lObjectives:@§a§lЦели:
+§c- §7Trade 24² with@§c- §7Отдай 24² 
+§c- §7All done@§c- §7Все завершены
+§6§lTracked Quest:@§6§lОтслеживаемый Квест:
+§dFollow your compass@§dСледуй за компасом
+§dto reach that location@§dчтобы попасть в локацию
