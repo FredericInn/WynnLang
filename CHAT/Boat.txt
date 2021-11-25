@@ -241,4 +241,4 @@
 §7[1/1] §2Seaskipper Captain: §aWhere are ya headed? Bear Zoo Island§a, huh? A'ight! I'll get ya there in no time.@§7[1/1] §2Капитан Корабля: §aКуда ты направляешься? Зоопарк, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
 §7[1/1] §2Seaskipper Captain: §aWhere are ya headed? Jofash Docks§a, huh? A'ight! I'll get ya there in no time.@§7[1/1] §2Капитан Корабля: §aКуда ты направляешься? Джофаш Доки, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
 §7[1/1] §2Seaskipper Captain: §aWhere are ya headed? Galleon's Graveyard§a, huh? A'ight! I'll get ya there in no time.@§7[1/1] §2Капитан Корабля: §aКуда ты направляешься? Кладбище Галеона, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
-§7[1/1] §2Seaskipper Captain: §aWhere are ya headed? Zhight Island§a, huh? A'ight! I'll get ya there in no time.@§7[1/1] §2Капитан Корабля: §aКуда ты направляешься? Жигт Остров, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
+§7[1/1] §2Seaskipper Captain: §aWhere are ya headed? Zhight Island§a, huh? A'ight! I'll get ya there in no time.@§7[1/1] §2Капитан Корабля: §aКуда ты направляешься? Жигт Остров, да? Отлично! Я доставлю тебя туда в кратчайшие сроки. 
